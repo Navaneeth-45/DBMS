@@ -1,0 +1,9 @@
+<img  width=100% src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonDevices/neel/CTR/Others/crossCat_1500x300.jpg" alt="">
+  
+<input type="text" name="productTitle" placeholder="𝐒𝐞𝐚𝐫𝐜𝐡 𝐁𝐲 𝐌𝐨𝐛𝐢𝐥𝐞 𝐍𝐚𝐦𝐞"   class="form-control mt-3 w-75 d-block mx-auto  p-3" [(ngModel)]="searchTerm" style="background-color: white;border:1px solid rgb(238, 130, 130);border-radius: 25px;">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4 mt-5 mb-5">
+    <div class="col" *ngFor="let prObj of products|search:searchTerm">
+        <app-mobilesdetails [productObj]=prObj ></app-mobilesdetails>
+    </div>
+
+</div>

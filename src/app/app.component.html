@@ -1,0 +1,174 @@
+<nav class="navbar navbar-expand-lg navbar-light nav " >
+  <a class="navbar-brand text-white ms-5 ani" style="font-size: 40px;"><i class="fas fa-store-alt" style="font-size: 40px;"></i> E-buy</a>
+  <button class="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="background-color: rgb(229, 255, 0);color: #7fff00;margin-right: 20px;">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse " id="navbarSupportedContent">
+    <ul class="navbar-nav ms-auto text-center">
+      <li class="nav-item ms-5">
+        <a class="nav-link text-white " routerLink="home" routerLinkActive="active"  >HOME <i class="fas fa-home"></i></a>
+      </li>
+      
+      <li class="nav-item ms-5" *ngIf="!us.userLoginStatus" >
+
+        <a class=" text-white  mod nav-link " data-bs-target="#md" data-bs-toggle="modal">Sign Up</a>
+
+
+    <div class="modal " id="md" data-bs-backdrop="static" data-bs-keyboard="false">
+        <div class="modal-dialog">
+            <div class="modal-content background">
+               <div class="modal-body ">
+                    <button class="btn btn-danger float-end " data-bs-dismiss="modal">X</button>
+                    <div class="container">
+
+                        <h4 class="text-center text-white mt-5 mb-4">CREATE ACCOUNT</h4>
+
+                        <form  #ref="ngForm" (ngSubmit)="onSignup(ref.value)">
+                           <div class="form-floating mb-3 ms-sm-4 me-sm-4"> 
+                               <input type="text"  id="username" class="form-control" name="username" placeholder="Full Name"  ngModel >
+                               <label for="username">User Name</label>
+                           </div>
+               
+                           <div class="form-floating mb-3 ms-sm-4 me-sm-4">
+                                <input type="text" name="email" id="em" class="form-control" placeholder="email"  ngModel>
+                                <label for="em">Email</label>
+                           </div>
+
+                           <div class="form-floating ms-sm-4 me-sm-4 mb-3 ">
+                               <input type="number"  id="mbno" class="form-control" placeholder="Mobile number" name="mobileno" ngModel >
+                                <label for="mbno">Mobile Number</label>
+                           </div>
+               
+                           <!-- <div class="form-floating mb-3 ms-sm-4 me-sm-4">
+                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example"   >
+                              <option value="male" ngModel>Male</option>
+                              <option value="female" ngModel>Female</option>
+                            </select>
+                            <label for="floatingSelect">Gender</label>
+                          </div> -->
+
+                          <div class="row g-3 mb-3 ms-sm-3 me-sm-3">
+                            <div class="col-md">
+                              <div class="form-floating">
+                                <input type="password" class="form-control" id="password" name="password" placeholder="password" ngModel>
+                                <label for="password">Password</label>
+                              </div>
+                            </div>
+                            <div class="col-md"> 
+                               <!-- <div class="form-floating ">
+                                <input type="password" class="form-control" id="password" name="retypepassword" placeholder="Password" ngModel>
+                                <label for="password">Retype-Password</label>
+                              </div> -->
+                            </div>
+                          </div>
+
+                            <div class="form-check mb-2 d-flex justify-content-center">
+                                <input class="form-check-input" type="checkbox" value="true" id="flexCheckDefault"  >
+                                <label class="form-check-label text-white ms-1 mt-1" for="flexCheckDefault">
+                                  I agree to the terms and conditions 
+                                </label>
+                              </div>
+
+
+                            <div class="mb-3 text-center">
+                              <button class="btn btn-warning " type="submit" ><i class="fas fa-user-plus me-2"></i>Register</button>
+                            </div>
+               
+                            
+               
+               
+               
+                        </form>
+                    </div>
+                    
+                           
+                    
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+      </li>
+
+
+
+
+
+     
+      <li class="nav-item ms-5" *ngIf="!us.userLoginStatus">
+        <a class="nav-link text-white"  routerLink="login" routerLinkActive="active">LOGIN <i class="fas fa-sign-in-alt"></i></a>
+      </li>
+      <li class="nav-item ms-5" *ngIf="us.userLoginStatus">
+        <a class="nav-link text-white"  routerLink="login"  (click)=userLogout() routerLinkActive="active">LOGOUT <i class="fas fa-sign-in-alt"></i></a>
+      </li>
+     
+      <li class="nav-item ms-5" *ngIf="us.userLoginStatus">
+          <a class="nav-link text-white"  routerLink="cart" routerLinkActive="active">MY CART <i class="fas fa-cart-plus"></i><strong><sup>{{count}}</sup></strong></a>
+        </li>
+    </ul>
+   
+  </div>
+</nav> 
+<router-outlet></router-outlet>
+<div class="sticky-footer mt-5">
+  <div class="container bottom_border">
+  <div class="row ">
+  <div class="col col-sm-4 col-md-4 col-12 mt-5 text-muted">
+  <h5 class=" pt2 text-dark">Download Our App</h5>
+
+  <p>Download App for Android and ios mobile phone</p>
+  <div class="my-4"> <button class="btn btn-outline-dark btn-icon-text bg-white text-dark p-1"> <i class="fab fa-google-play btn-icon-prepend mdi-36px"></i> <span class="d-inline-block text-left"> <small class="font-weight-light d-block">Get it on the</small> Google Play</span> 
+  </button> <button class="btn btn-outline-dark btn-icon-text bg-white text-dark p-1 mx-3"> <i class="fab fa-apple btn-icon-prepend mdi-36px"></i>  <span class="d-inline-block text-left"> <small class="font-weight-light d-block">Download on the</small> App Store</span> </button> </div>
+  </div>
+
+  <div class=" col-sm-4 col-md col-6 col mt-5">
+    <h5 class="text-dark ms-2">E-buy</h5>
+  
+    <ul class="list-unstyled ">
+    <li><a href="#!" class="text-dark ms-2">Contact</a></li>
+    <li><a href="#!" class="text-dark ms-2">Partner Program</a></li>
+    <li><a href="#!" class="text-dark ms-2">Affiliate program</a></li>
+    <li><a href="#!" class="text-dark ms-2">movie ratings</a></li>
+    </ul>
+  
+    </div>
+  
+  
+  
+  <div class=" col-sm-4 col-md col-6 col mt-5">
+  <h5 class="text-dark">Useful links</h5>
+
+  <ul class="list-unstyled ">
+  <li><a href="#!" class="text-dark">Coupons</a></li>
+  <li><a href="#!" class="text-dark">Blog Post</a></li>
+  <li><a href="#!" class="text-dark"> Policy</a></li>
+  <li><a href="#!" class="text-dark">Join Affiliate</a></li>
+  </ul>
+
+  </div>
+  
+  
+  <div class=" col-sm-4 col-md col-12 col text-center mt-5">
+  <h5 class=" text-dark">Follow us</h5>
+
+  
+  <ul class="list-unstyled ">
+    <li><a href="#!" class="text-dark">Facebook<i class="fab fa-facebook-square ms-1 text-dark"></i></a></li>
+    <li><a href="#!" class="text-dark">Twitter<i class="fab fa-twitter ms-1 text-dark"></i></a></li>
+    <li><a href="#!" class="text-dark">Instagram <i class="fab fa-instagram ms-1 text-dark"></i></a></li>
+    <li><a href="#!" class="text-dark">Youtube<i class="fab fa-youtube ms-1 text-dark"></i></a></li>
+    </ul>
+
+  </div>
+  </div>
+  <hr class="text-dark">
+  <div>
+  <p class="text-center text-dark pb-4">Terms of Service Private Policy<i class="fas fa-globe ms-1 me-1"></i>India<p>
+</div>
+  </div>
+  
+
+</div>

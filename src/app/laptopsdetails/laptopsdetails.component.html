@@ -1,0 +1,28 @@
+
+<div class="card shadow  h-100 text-dark back" style="border-radius: 10px;" >   
+    <div class="card-body mt-5 ">
+      <div class="row">
+
+        <div class="col-7">
+        
+          <h3 class="text-primary">{{productObj.productname}}</h3>
+          <h3 class="text-danger">{{productObj.price | currency:'INR'}}</h3>
+          <p style="color: orange;"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>32341</p>
+          <p>Save extra with No Cost EMISave extra with No Cost EMI </p>
+          <p>FREE Delivery by E-buy</p>
+          <p> In stock on June 20, 2021.</p>
+        </div>
+
+
+        <div class="col-5">
+          <a (click)="laptopsDisplay(productObj.id)"> <img width=100% src={{productObj.imageurl}} alt=""></a>
+           
+      
+    </div>
+     
+
+    </div>
+    </div>
+  </div>
+
+

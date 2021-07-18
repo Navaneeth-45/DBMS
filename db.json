@@ -1,0 +1,1302 @@
+{
+   
+  "mobiles":[
+    {
+      "id":1,
+      "imageurl":"https://rukminim1.flixcart.com/image/416/416/kkvhea80/mobile/i/w/a/x7-pro-rmx2121-realme-original-imagy4cafa9hr3ps.jpeg?q=70",
+      "productname":"realme X7 Pro 5G",
+      "description":"This mobile phone has an Octa-core CPU and a clock speed of up to 2.6 GHz to ensure that you get to enjoy a powerful performance. You can play high-graphic games without lags with the flagship Mali-G77 GPU that makes use of up to nine cores. You can enjoy high speed and power with the processor.",
+      "price":32999,
+      "productdetails":[
+        {
+          "color":"Fantasy",
+          "size":"16.64 cm (6.55 inch)",
+          "internal":"128 GB",
+          "RAM":"8 GB",
+          "primaryCamera":"64MP + 8MP + 2MP + 2MP",
+          "secondaryCamera":"32MP Front Camera",
+          "battery":"4500 mAh",
+          "networkType":"5G, 4G VOLTE, 4G, 3G, 2G",
+          "os":"Android 10",
+          "processorType":"MediaTek Dimensity 1000 Plus",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.6 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":2,
+      "imageurl":"https://rukminim1.flixcart.com/image/416/416/kgsb1jk0/mobile/y/u/g/samsung-fold-2-5g-galaxyfold2-original-imafwy2g3zm6yypj.jpeg?q=70",
+      "productname":"SAMSUNG Fold 2 5G ",
+      "description":"Triple camera setup - Wide: 12MP (F1.8) + Tele: 12MP (F2.4) 2x optical zoom + UW: 12MP (F2.2) with front camera cover display (HID): 10MP (F2.2) + main display (HID): 10MP (F2.2) 19.27 centimeters (7.6-inch) dynamic AMOLED 2X - Infinity-O display, QXGA+ multi-touch capacitive touchscreen with 2208 x 1768 pixels resolution, 373 ppi pixel density and 16M color support Android v10.0 operating system with 1.8GHz+2.4GHz+3.09GHz Qualcomm | SM8250-2-AB octa core processor Memory, Storage & SIM: 12GB RAM | 128GB internal memory expandable | Dual SIM (nano+nano) dual-standby (4G+4G) 4500mAH lithium-ion battery fast charge | 25W Type-C fast charger in the box 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Fast face unlock and fingerprint sensor | Dual SIM (SIM 1 + Embedded SIM) with dual standby and dual VoLTE , Dedicated Sim slot Box also includes: Earphones (USB Type C) with sound by AKG, replacement earbud tips, power adapter, ejection pin, Z premier service leaflet and quick start guide",
+      "price":169999,
+      "productdetails":[
+        {
+          "color":"Black",
+          "size":"19.3 cm (7.6 inch)",
+          "internal":"256 GB",
+          "RAM":"12 GB",
+          "primaryCamera":"12MP + 12MP + 10MP",
+          "secondaryCamera":"10MP",
+          "battery":"4500 mAh",
+          "networkType":"4G VOLTE, 4G, 3G, 2G",
+          "os":"Android Jelly Bean 10",
+          "processorType":"Qualcomm",
+          "processorCore":"Dual Core",
+          "clockspeed":"2 GHz"
+        }
+      ]
+    },
+
+    
+    {
+      "id":3,
+      "imageurl":"https://rukminim1.flixcart.com/image/416/416/k7nnrm80/mobile/c/q/y/motorola-razr-paht001-0in-original-imafpufa4squsprt.jpeg?q=70",
+      "productname":"MOTOROLA Razr",
+      "description":"A screen that completely folds into half! This smartphone combines the OLED screen technology with the use of flexible material to bring forth the modern-day flip phone. So, flip open the phone and enjoy your favourite visuals on the main 15.75 cm (6.2) 21:9 CinemaVision foldable display.",
+      "price":80000,
+      "productdetails":[
+        {
+          "color":"Black",
+          "size":"15.75 cm (6.2 inch)",
+          "internal":"128 GB",
+          "RAM":"6 GB",
+          "primaryCamera":"16MP Rear Camera",
+          "secondaryCamera":"5MP Front Camera",
+          "battery":"2510 mAh",
+          "networkType":"4G VOLTE, 4G, 3G, 2G",
+          "os":"Android 10",
+          "processorType":"SDM710",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.2 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":4,
+      "imageurl":"https://m.media-amazon.com/images/I/61PDbUd1VaL._AC_UY218_.jpg",
+      "productname":"OnePlus R9 5G",
+      "description":"A Panoramic Arc Screen, an AI-enhanced 3D Camera, a Qualcomm Snapdragon 845 processor, the ColorOS 5.1 and a number of nifty features come together to give birth to the OPPO Find X. Watch videos on its gorgeous screen, take amazing selfies, and send fun 3D Omojis - do all these and much more with greater ease, thanks to the Google Assistant.",
+      "price":60990,
+      "productdetails":[
+        {
+          "color":"Bordeaux Red",
+          "size":"16.26 cm (6.4 inch)",
+          "internal":"256 GB",
+          "RAM":"8 GB",
+          "primaryCamera":"16MP + 20MP",
+          "secondaryCamera":"25MP",
+          "battery":"3730 mAh",
+          "networkType":"4G VOLTE, 4G, 3G, 2G",
+          "os":"Android Oreo 8.1.0",
+          "processorType":"Snapdragon 845 Octa Core 2.649 GHz",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.649 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":5,
+      "imageurl":"https://images-na.ssl-images-amazon.com/images/I/71uGY3xvkRL._SL1500_.jpg",
+      "productname":"LG V30+",
+      "description":"Click pictures and selfies like a professional by buying this smartphone from LG. Featuring a rear dual-camera system (16 MP and 13 MP) and a 5-megapixel wide-angle front camera, the LG V30+ ThinQ helps you take mind-blowing photographs and selfies without any hassle. This smartphone also features the AI CAM, which identifies what you're trying to capture and suggests a filter so good that everybody wants to click a selfie or two with you.",
+      "price":60000,
+      "productdetails":[
+        {
+          "color":"Silver",
+          "size":"15.24 cm (6 inch)",
+          "internal":"128 GB",
+          "RAM":"4 GB",
+          "primaryCamera":"16MP + 13MP",
+          "secondaryCamera":"5MP",
+          "battery":"3300 mAh",
+          "networkType":"3G, 4G VOLTE, 4G, 2G",
+          "os":"Android Oreo 8",
+          "processorType":"Qualcomm Snapdragon 835",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.45 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":6,
+      "imageurl":"https://rukminim1.flixcart.com/image/416/416/km2clu80/mobile/o/m/x/rog-phone-5-zs673ks-1a053in-asus-original-imagff5hh8es8qan.jpeg?q=70",
+      "productname":"ASUS ROG Phone 5",
+      "description":"Stylish, functional, and versatile, the ASUS ROG Phone 5 smartphone ensures that you can stay entertained and play games with ease. Its ergonomic design and AURA RGB lighting further enhance its aesthetic appeal, making it ideal for gaming-freaks who love to flaunt their devices. It features a powerful 5 nm Qualcomm Snapdragon 888 5G Mobile Platform which is capable of handling demanding tasks, such as gaming, browsing, multitasking and more. To top it off, this smartphone comes with a 6000 mAh battery that helps you play for long hours without having to charge it constantly.",
+      "price":57999,
+      "productdetails":[
+        {
+          "color":"Black",
+          "size":"17.22 cm (6.78 inch) Full HD+",
+          "internal":"256 GB",
+          "RAM":"12 GB",
+          "primaryCamera":"64MP + 13MP + 5MP",
+          "secondaryCamera":"24MP",
+          "battery":"6000 mAh",
+          "networkType":"5G, 4G VOLTE, 4G, 3G, 2G",
+          "os":"Android 11",
+          "processorType":"Qualcomm Snapdragon 888 (SM8350)",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.84 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":7,
+      "imageurl":"https://m.media-amazon.com/images/I/61IwksZ-DGL._AC_UY218_.jpg",
+      "productname":"OnePlus 9R 5G (Lake Blue, 8GB RAM, 128GB Storage)",
+      "description":"Be it colourful photos or classic black-and-white pictures, you can click them all with this stunning smartphone from Nokia. Featuring five 12-megapixel cameras on its back and a 20-megapixel front camera, this handset gives smartphone photography a whole new meaning. And, to make things even better, this smartphone also boasts the Pro Camera UI that lets you make adjustments to different camera settings, such as ISO and white balance, to help your pictures shine like they’re meant to be.",
+      "price":56299,
+      "productdetails":[
+        {
+          "color":"Blue",
+          "size":"15.21 cm (5.99 inch)",
+          "internal":"128 GB",
+          "RAM":"6 GB",
+          "primaryCamera":"5 x 12MP",
+          "secondaryCamera":"20MP Front Camera",
+          "battery":"3320 mAh",
+          "networkType":"3G, 4G VOLTE, 4G, 2G",
+          "os":"Android Pie 9",
+          "processorType":"Qualcomm Snapdragon 845",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.84 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":8,
+      "imageurl":"https://rukminim1.flixcart.com/image/416/416/kdxfc7k0/mobile/c/k/b/mi-10-mzb8923in-original-imafuq8s6kcvcrjf.jpeg?q=70",
+      "productname":"Mi 10",
+      "description":"With the Mi 10 Mobile Phone in your hands, you can enjoy taking splendid pictures and videos that will look as good as the work of professionals. With Qualcomm Snapdragon 865, you can enjoy seamless connectivity, efficient multitasking, and smooth gaming. This mobile phone supports 30 W Wireless Charging + 10 W Reverse Charging to give you hassle-free and fast charging. Thanks to the 16.94 cm (6.67) 3D Curved E3 AMOLED Display, your eyes will be treated to bright and clear visuals while streaming content or gaming. Gamers will be delighted with the 90 Hz refresh rate along with up to 180 Hz touch sampling for smooth and disturbance-free gameplay.",
+      "price":54999,
+      "productdetails":[
+        {
+          "color":"Coral Green",
+          "size":"16.94 cm (6.67 inch)",
+          "internal":"256 GB",
+          "RAM":"8 GB",
+          "primaryCamera":"108MP + 13MP + 2MP + 2MP",
+          "secondaryCamera":"20MP Front Camera",
+          "battery":"4780 mAh",
+          "networkType":"5G, 4G VOLTE, 4G, 3G, 2G",
+          "os":"Android 10",
+          "processorType":"Qualcomm Snapdragon 865",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.84 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":9,
+      "imageurl":"https://rukminim1.flixcart.com/image/416/416/kcm9t3k0/mobile/p/p/q/vivo-x50-pro-vivo-2006-original-imaftppa68vrwghg.jpeg?q=70",
+      "productname":"ViVO X50 Pro ",
+      "description":"Get set for a seamless phone usage with the Vivo X50 Pro smartphone. Featuring a 3D Curved Ultra O screen, this smartphone will make every visual look beautiful. Oh, and if you are heading out on a holiday, this phone’s pro-quad camera with a 48 MP main Gimbal camera will ensure every shot you click is great. That's not all, if you have ever wanted to capture the star-lit sky at its best, this phone’s Astro Mode is the one to reckon with.",
+      "price":49990,
+      "productdetails":[
+        {
+          "color":"Alpha Grey",
+          "size":"16.66 cm (6.56 inch)",
+          "internal":"256 GB",
+          "RAM":"8 GB",
+          "primaryCamera":"48MP + 13MP + 8MP + 8MP",
+          "secondaryCamera":"32MP Front Camera",
+          "battery":"4315 mAh",
+          "networkType":"5G, 4G, 3G, 2G",
+          "os":"Android 10",
+          "processorType":"Qualcomm Snapdragon 765G",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.4 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":10,
+      "imageurl":"https://rukminim1.flixcart.com/image/416/416/k070zgw0/mobile/z/4/3/lenovo-z6-pro-l78051-original-imafkfuwunbtu3zy.jpeg?q=70",
+      "productname":"Lenovo Z6 Pro",
+      "description":"With the presence of the Snapdragon 855 processor, 8 GB of RAM, and the 7nm Process technology, this smartphone is equipped to perform like a monster. This phone also has ample space (up to 128 GB) to store all your files in one place.",
+      "price":39999,
+      "productdetails":[
+        {
+          "color":"Black",
+          "size":"16.23 cm (6.39 inch)",
+          "internal":"128 GB",
+          "RAM":"8 GB",
+          "primaryCamera":"48MP + 2MP + 16MP + 8MP",
+          "secondaryCamera":"32MP Front Camera",
+          "battery":"4000 mAh",
+          "networkType":"3G, 4G VOLTE, 4G, 2G",
+          "os":"Android Pie 9",
+          "processorType":"Qualcomm SDM855",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.8 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":11,
+      "imageurl":"https://rukminim1.flixcart.com/image/416/416/knt7zbk0/mobile/l/v/e/8-5g-rmx3241-realme-original-imag2emft53yzx4x.jpeg?q=70",
+      "productname":"realme 8 5G",
+      "description":"The realme 8 5G is a visual treat with its slim and lightweight design. Thanks to its slim construction, you can comfortably hold it. Its 16.5 cm (6.5) FHD+ Display and fast refresh rate, you can enjoy delightful and smooth visuals while streaming content, gaming, and so on. And, with an instant side-fingerprint sensor, you can unlock your device in an instant.",
+      "price":16999,
+      "productdetails":[
+        {
+          "color":"Supersonic Blue",
+          "size":"16.51 cm (6.5 inch)",
+          "internal":"128 GB",
+          "RAM":"8 GB",
+          "primaryCamera":"48MP + 2MP + 2MP",
+          "secondaryCamera":"16MP Front Camera",
+          "battery":"5000 mAh",
+          "networkType":"5G, 4G VOLTE, 4G, 3G, 2G",
+          "os":"Android 11",
+          "processorType":"MediaTek Dimensity 700 (MT6833)",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.2 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":12,
+      "imageurl":"https://rukminim1.flixcart.com/image/416/416/k7f34i80/mobile/h/e/4/samsung-galaxy-m31-sm-m315fzbdins-original-imafpnrzbvwzunz6.jpeg?q=70",
+      "productname":"SAMSUNG M31",
+      "description":"64MP + 8MP + 5MP + 5MP rear camera | 32MP front facing camera 16.21 centimeters (6.4-inch) FHD+ capacitive touchscreen with 2340 x 1080 pixels resolution, 404 ppi pixel density and 16M color support Memory, Storage & SIM: 6GB RAM | 64GB storage expandable up to 512GB | Dual SIM with dual standby (4G+4G) Android v10.0 operating system with 2.3GHz + 1.7GHz Exynos 9611 Octa core processor 6000mAH lithium-ion battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Box also includes: Travel Adapter, USB Cable, Ejection Pin, User Manual Fast face unlock and fingerprint sensor | Dual SIM (nano+nano) with dual standby and dual VoLTE , Dedicated Sim slot;Widevine L1 certification for HD streaming",
+      "price":16999,
+      "productdetails":[
+        {
+          "color":"Ocean Blue",
+          "size":"16.26 cm (6.4 inch)",
+          "internal":"128 GB",
+          "RAM":"6 GB",
+          "primaryCamera":"64MP + 8MP + 5MP + 5MP",
+          "secondaryCamera":"32MP Front Camera",
+          "battery":"6000 mAh",
+          "networkType":"4G VOLTE, 4G, 3G, 2G",
+          "os":"Android Pie 10",
+          "processorType":"Samsung Exynos 9 Octa 9611",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.3 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":13,
+      "imageurl":"https://rukminim1.flixcart.com/image/416/416/kolsscw0/mobile/g/l/s/g40-fusion-panv0002in-panv0006in-panv0010in-motorola-original-imag3f56nhjuds6f.jpeg?q=70",
+      "productname":"MOTOROLA G40 Fusion",
+      "description":"Featuring an efficient Snapdragon 732G processor, this smartphone delivers fast graphics, making your gaming experience seem realistic. Also, with its 6 GB of RAM, you can multitask between apps seamlessly.",
+      "price":16999,
+      "productdetails":[
+        {
+          "color":"Dynamic Gray",
+          "size":"17.22 cm (6.78 inch)",
+          "internal":"128 GB",
+          "RAM":"6 GB",
+          "primaryCamera":"64MP + 8MP + 2MP",
+          "secondaryCamera":"16MP Front Camera",
+          "battery":"6000 mAh",
+          "networkType":"4G VOLTE, 4G, 3G, 2G",
+          "os":"Android 11",
+          "processorType":"Qualcomm Snapdragon 732G",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.3 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":14,
+      "imageurl":"https://m.media-amazon.com/images/I/91dLTREdG1L._AC_UY218_.jpg",
+      "productname":"Samsung Galaxy S21 Ultra 5G ",
+      "description":"For fast computing on the move, impressive photos, and all-day-long, uninterrupted performance, the POCO X3 Pro is the right device for you. This smartphone features the Qualcomm Snapdragon 860 for smooth function, 16.94-cm (6.67) FHD+ Display for clear visuals, and a 5160 mAh Battery to ensure that your smartphone does not run out of battery quickly.",
+      "price":20999,
+      "productdetails":[
+        {
+          "color":"Graphite Black",
+          "size":"16.94 cm (6.67 inch)",
+          "internal":"128 GB",
+          "RAM":"8 GB",
+          "primaryCamera":"48MP + 8MP + 2MP + 2MP",
+          "secondaryCamera":"20MP Front Camera",
+          "battery":"5160 mAh",
+          "networkType":"4G VOLTE, 4G, 3G, 2G",
+          "os":"Android 11",
+          "processorType":"Qualcomm Snapdragon 860",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.96 GHz"
+        }
+      ]
+    },
+
+    {
+      "id":15,
+      "imageurl":"https://rukminim1.flixcart.com/image/416/416/klscivk0/mobile/k/r/b/narzo-30-pro-5g-rmx2117-realme-original-imagyu9m4eydg4fy.jpeg?q=70",
+      "productname":"realme Narzo 30 Pro 5G",
+      "description":"If you love playing games and are looking for a smartphone that can help you enjoy a smooth and responsive gaming experience, then say hello to the Realme Narzo 30 Pro 5G smartphone. Boasting a powerful Dimensity 800U 5G processor, this smartphone can easily handle any task. You can capture stunning photos wherever you are as this phone comes with a 48 MP triple camera setup. Furthermore, its Super Nightscape mode helps you click clear and vivid photos even in low-light conditions.",
+      "price":17999,
+      "productdetails":[
+        {
+          "color":"Blade Silver",
+          "size":"16.51 cm (6.5 inch)",
+          "internal":"128 GB",
+          "RAM":"8 GB",
+          "primaryCamera":"48MP + 8MP + 2MP",
+          "secondaryCamera":"16MP Front Camera",
+          "battery":"5000 mAh",
+          "networkType":"5G, 4G VOLTE, 4G, 3G, 2G",
+          "os":"Android 10",
+          "processorType":"MediaTek Dimensity 800U",
+          "processorCore":"Octa Core",
+          "clockspeed":"2.4 GHz"
+        }
+      ]
+    }
+
+  ],
+  "laptops":[
+        {
+          "id":1,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/jy3anbk0/computer/y/x/z/hp-na-gaming-laptop-original-imafgeyrwj6uhk6p.jpeg?q=70",
+          "productname":"HP Omen X 2S Core i9 9th Gen",
+          "description":"HP Omen X 2S Core i9 9th Gen - (16 GB/2 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 2080) 15-dg0019TX Gaming Laptop  (15.6 inch, Shadow Black, 2.38 kg)",
+          "price":345000,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"8 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i9",
+              "processorGeneration":"9th Gen",
+              "memorycapacity":"2 TB SSD",
+              "RAM":"16 GB",
+              "clockspeed":"2.3 GHz with Turbo Boost Upto 4.8 GHz",
+              "cache":"16 MB",
+              "numofcores":"8",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":2,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/kcauaa80/computer/8/k/e/alienware-original-imaftgn37g4vzqmy.jpeg?q=70",
+          "productname":"ALIENWARE Core i9 10th Gen",
+          "description":"ALIENWARE Core i9 10th Gen - (32 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 2080 with Max-Q) m15R3 Gaming Laptop  (15.6 inch, Lunar Light, 2.5 kg, With MS Office)",
+          "price":319990,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"8 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i9",
+              "processorGeneration":"10th Gen",
+              "memorycapacity":"1 TB SSD",
+              "RAM":"32 GB",
+              "clockspeed":"2.4 GHz with Turbo Boost Upto 5.3 GHz",
+              "cache":"16 MB",
+              "numofcores":"8",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":3,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/kcauaa80/computer/h/w/c/asus-na-gaming-laptop-original-imaftgegjf4cqbmq.jpeg?q=70",
+          "productname":"ASUS Core i9 10th Gen",
+          "description":"ASUS Core i9 10th Gen - (32 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 2060) UX581LV-H2035T Gaming Laptop  (15.6 inch, Celestial Blue, 2.50 kg)",
+          "price":269990,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"6 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i9",
+              "processorGeneration":"10th Gen",
+              "memorycapacity":"1 TB SSD",
+              "RAM":"32 GB",
+              "clockspeed":"2.4 GHz with Turbo Boost Upto 5.3 GHz",
+              "cache":"16 MB",
+              "numofcores":"8",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":4,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/kfpq5jk0/computer/f/c/s/msi-na-gaming-laptop-original-imafw3ynhhgxy6bm.jpeg?q=70",
+          "productname":"MSI Creator 17 Core i7 10th Gen",
+          "description":"MSI Creator 17 Core i7 10th Gen - (32 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 2070 Max-Q/60 Hz) Creator 17 A10SF-872IN Gaming Laptop  (17.3 inch, Grey, 2.5 kg)",
+          "price":264990,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"6 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i7",
+              "processorGeneration":"10th Gen",
+              "memorycapacity":"1 TB SSD",
+              "RAM":"32 GB",
+              "clockspeed":"2.3 GHz with Turbo Boost Upto 5.1 GHz",
+              "cache":"16 MB",
+              "numofcores":"8",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":5,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/kmax8y80/computer/l/6/j/legion-7i-gaming-laptop-lenovo-original-imagf8cbb5apup7t.jpeg?q=70",
+          "productname":"Lenovo Core i9 10th Gen",
+          "description":"Lenovo Core i9 10th Gen - (16 GB/1 TB SSD/Windows 10/8 GB Graphics/NVIDIA GeForce RTX 2080 super max-q) 81YU006HIN Gaming Laptop  (15.6 inch, Slate Grey, With MS Office)",
+          "price":262998,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"8 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i9",
+              "processorGeneration":"9th Gen",
+              "memorycapacity":"1 TB SSD",
+              "RAM":"16 GB",
+              "clockspeed":"2.3 GHz with Turbo Boost Upto 5.1 GHz",
+              "cache":"16 MB",
+              "numofcores":"8",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":6,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/jzd0qkw0/computer/h/n/y/hp-elitebook-1040-laptop-original-imafjebswe9wzyuk.jpeg?q=70",
+          "productname":"HP G4 Core i7 7th Gen",
+          "description":"HP G4 Core i7 7th Gen - (16 GB/1 TB SSD/8 GB EMMC Storage/Windows 10 Pro) EliteBook 1040 G4 Laptop  (14 inch, Silver, With MS Office)",
+          "price":245999,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"8 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i7",
+              "processorGeneration":"10th Gen",
+              "memorycapacity":"1 TB SSD",
+              "RAM":"16 GB",
+              "clockspeed":"2.3 GHz with Turbo Boost Upto 5.1 GHz",
+              "cache":"16 MB",
+              "numofcores":"8",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":7,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/kfmv9u80/computer/4/t/g/asus-na-gaming-laptop-original-imafwfxg8bxmqjvw.jpeg?q=70",
+          "productname":"ASUS ROG Strix Scar 17 Core i9 10th Gen",
+          "description":"ASUS ROG Strix Scar 17 Core i9 10th Gen - (32 GB/2 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 2080 Super/300 Hz) G732LXS-HG059T Gaming Laptop  (17.3 inch, Black Metal, 2.99 kg)",
+          "price":239990,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"8 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i9",
+              "processorGeneration":"10th Gen",
+              "memorycapacity":"2 TB SSD",
+              "RAM":"32 GB",
+              "clockspeed":"2.4 GHz with Turbo Boost Upto 5.3 GHz",
+              "cache":"16 MB",
+              "numofcores":"8",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":8,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/k7xnukw0/computer/n/m/e/apple-na-laptop-original-imafq2e2f9gsmdzz.jpeg?q=70",
+          "productname":"APPLE MacBook Pro Core i9 9th Gen",
+          "description":"APPLE MacBook Pro Core i9 9th Gen - (16 GB/1 TB SSD/Mac OS Catalina/4 GB Graphics) MVVM2HN/A  (16 inch, Silver, 2 kg)",
+          "price":224990,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"4 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i9",
+              "processorGeneration":"9th Gen",
+              "memorycapacity":"1 TB SSD",
+              "RAM":"16 GB",
+              "clockspeed":"2.3 GHz with Turbo Boost Upto 4.8 GHz",
+              "cache":"16 MB",
+              "numofcores":"8",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Mac OS Catalina"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":9,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/kffq2kw0/computer/m/f/d/dell-original-imafvwfmvurhhjdh.jpeg?q=70",
+          "productname":"DELL XPS Core i7 10th Gen",
+          "description":"DELL XPS Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics) XPS 9700 Laptop  (17 inch, Silver, 2.11 kg, With MS Office)",
+          "price":219615,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"4 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i7",
+              "processorGeneration":"9th Gen",
+              "memorycapacity":"1 TB SSD",
+              "RAM":"16 GB",
+              "clockspeed":"2.6 GHz with Turbo Boost Upto 5 GHz",
+              "cache":"12 MB",
+              "numofcores":"6",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":10,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/ke0a7ww0/computer/t/3/j/hp-original-imafushcajardghe.jpeg?q=70",
+          "productname":"HP Spectre x360 Core i5 10th Gen",
+          "description":"HP Spectre x360 Core i5 10th Gen - (16 GB/512 GB SSD/Windows 10 Pro/4 GB Graphics) 15-eb0014tx 2 in 1 Laptop  (15.6 inch, Poseidon Blue, 1.92 kg, With MS Office)",
+          "price":210520,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"4 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i5",
+              "processorGeneration":"10th Gen",
+              "memorycapacity":"512 GB SSD",
+              "RAM":"16 GB",
+              "clockspeed":"2.6 GHz with Turbo Boost Upto 5 GHz",
+              "cache":"6 MB",
+              "numofcores":"4",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Pro"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":11,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/jiqb8nk0/computer/j/w/c/acer-na-gaming-laptop-original-imaf6gghtgtf6ezf.jpeg?q=70",
+          "productname":"acer Predator 17 Core i7 7th Gen",
+          "description":"acer Predator 17 Core i7 7th Gen - (16 GB/2 TB HDD/256 GB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce GTX 1070) G9-793 Gaming Laptop  (17.3 inch, Black, 4.2 kg, With MS Office)",
+          "price":186555,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR5",
+              "graphicMemoryCapacity":"8 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i7",
+              "processorGeneration":"7th Gen",
+              "memorycapacity":"256 GB SSD + 2 TB HDD",
+              "RAM":"16 GB",
+              "clockspeed":"2.8 GHz with Turbo Boost Upto 3.8 GHz",
+              "cache":"6 MB",
+              "numofcores":"4",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":12,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/kf4ajrk0/computer/q/8/5/dell-na-gaming-laptop-original-imafvn3yv33m7bfa.jpeg?q=70",
+          "productname":"DELL G7 Core i9 10th Gen",
+          "description":"DELL G7 Core i9 10th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 2070/300 Hz) INS 7500 / G7 7500 Gaming Laptop  (15.6 inch, Black, 2.56 kg, With MS Office)",
+          "price":179990,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"8 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i9",
+              "processorGeneration":"10th Gen",
+              "memorycapacity":"1 TB SSD",
+              "RAM":"16 GB",
+              "clockspeed":"2.4 GHz with Turbo Boost Upto 5.3 GHz",
+              "cache":"16 MB",
+              "numofcores":"8",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":13,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/jkcwakw0/computer/h/g/x/asus-na-laptop-original-imaf7qdpm99pq4yd.jpeg?q=70",
+          "productname":"ASUS ZenBook Pro 15 Core i7 8th Gen",
+          "description":"ASUS ZenBook Pro 15 Core i7 8th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics) UX580GE-E2014T Laptop  (15.6 inch, Deep Dive Blue, 1.88 kg)",
+          "price":175190,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR5",
+              "graphicMemoryCapacity":"4 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i7",
+              "processorGeneration":"8th Gen",
+              "memorycapacity":"1 TB SSD",
+              "RAM":"16 GB",
+              "clockspeed":"2.2 GHz with Turbo Boost Upto 4.1 GHz",
+              "cache":"9 MB",
+              "numofcores":"6",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":14,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/kpedle80/computer/r/l/o/g513qm-hf312ts-gaming-laptop-asus-original-imag3ncf7gjyfpdv.jpeg?q=70",
+          "productname":"ASUS ROG Strix G15 (2021) Ryzen 7 Octa Core 5800H",
+          "description":"ASUS ROG Strix G15 (2021) Ryzen 7 Octa Core 5800H - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/300 Hz) G513QM-HF312TS Gaming Laptop  (15.6 Inch, Original Black, 2.3 KG, With MS Office)",
+          "price":170990,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"6 GB",
+              "processorBrand":"AMD",
+              "processorName":"Ryzen 7 Octa Core",
+              "processorGeneration":"",
+              "memorycapacity":"1 TB SSD",
+              "RAM":"16 GB",
+              "clockspeed":"3.2Ghz with Turbo Boost upto 4.4GHz",
+              "cache":"16 MB",
+              "numofcores":"8",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        },
+    
+        {
+          "id":15,
+          "imageurl":"https://rukminim1.flixcart.com/image/416/416/kevpwnk0/computer/g/x/w/hp-original-imafvgr5mbgxxuc3.jpeg?q=70",
+          "productname":"HP Envy Core i7 10th Gen ",
+          "description":"HP Envy Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics) 15-EP0142TX 2 in 1 Laptop  (15.6 inch, Natural Silver, 2.14 kg, With MS Office)",
+          "price":170900,
+          "productdetails":[
+            {
+              "graphicMemoryType":"GDDR6",
+              "graphicMemoryCapacity":"6 GB",
+              "processorBrand":"Intel",
+              "processorName":"Core i7",
+              "processorGeneration":"10th Gen",
+              "memorycapacity":"1 TB SSD",
+              "RAM":"16 GB",
+              "clockspeed":"2.6 GHz with Turbo Boost Upto 5 GHz",
+              "cache":"12 MB",
+              "numofcores":"6",
+              "operatingSystem":[
+                {
+                  "architecture":"64 bit",
+                  "os":"Windows 10 Home"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "watches":[
+        {
+          "id":1,
+          "imageurl":"https://cdn2.chrono24.com/images/uhren/19005132-k0mxiu6v7k98io6sbno3hora-Zoom.jpg",
+          "productname":"Richard Mille RM011",
+          "description":"Richard Mille RM11-03 Ultimate Edition Carbon Covered Turquoise Quartz TPT Skeleton Dial Watch RM11-03",
+          "price":46000000,
+          "productdetails":[ {
+                                     "brandname":"richard mile",
+                                     "model":"RM-011",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"5 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"Arabic numerals"
+                                   } 
+                                ],
+          "size":"44 mm"
+        },
+       {
+          "id":2,
+          "imageurl":"https://cdn2.chrono24.com/images/uhren/11001945-1oxic4am6ina56syujemm37p-Zoom.jpg",
+          "productname":"Patek Philippe",
+          "description":"Patek Philippe Nautilus 5980/1R-001 Rose Gold",
+          "price":18000000,
+          "productdetails":[ {
+                                     "brandname":"Patek Philippe",
+                                     "model":"Nautilus",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"10 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"No numerals"
+                                   } 
+                                ],
+          "size":"40.5 mm"
+        },
+        {
+          "id":3,
+          "imageurl":"https://cdn2.chrono24.com/images/uhren/18674830-uoh05jiekb7ehdgezhbfq1sy-Zoom.jpg",
+          "productname":"Rolex",
+          "description":"Rolex Daytona Yellow Gold Rainbow Factory Gem Bezel Black Diamond Dial Watch 116598RBOW",
+          "price":27000000,
+          "productdetails":[ {
+                                     "brandname":"Rolex",
+                                     "model":"Daytona",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"10 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"No numerals"
+                                   } 
+                                ],
+          "size":"40 mm"
+        },
+        {
+          "id":4,
+          "imageurl":"https://cdn2.chrono24.com/images/uhren/17558723-5rb80tc873stnbw0c50zantx-Zoom.jpg",
+          "productname":"Audemars Piguet",
+          "description":"Audemars Piguet Royal Oak 18k Rose Gold Diamond Pave Bracelet and Dial Watch 15452OR.ZZ.1258OR.02",
+          "price":13000000,
+          "productdetails":[ {
+                                     "brandname":"Audemars Piguet",
+                                     "model":"Royal Oak Lady",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"5 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"No numerals"
+                                   } 
+                                ],
+          "size":"37 mm"
+        },
+        {
+          "id":5,
+          "imageurl":"https://m.media-amazon.com/images/I/41tYH9E+UBL._AC_UL320_.jpg",
+          "productname":"Hublot",
+          "description":"Hublot BIG BANG ONE CLICK SANG BLEU KING (Gold, Pink Diamonds)",
+          "price":2200000,
+          "productdetails":[ {
+                                     "brandname":"Hublot",
+                                     "model":"Big Bang Sang Bleu",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"10 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"Arabic numerals"
+                                   } 
+                                ],
+          "size":"39 mm"
+        },
+        {
+          "id":6,
+          "imageurl":"https://images-na.ssl-images-amazon.com/images/I/518GIsIKYIL._SX497_BO1,204,203,200_.jpg",
+          "productname":"Breitling",
+          "description":"Breitling Superocean Heritage II 46 Steel AB202016/C961",
+          "price":325000,
+          "productdetails":[ {
+                                     "brandname":"Breitling",
+                                     "model":"Superocean Heritage II 46",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"20 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"no numerals"
+                                   } 
+                                ],
+          "size":"46 mm"
+        },
+       {
+          "id":7,
+          "imageurl":"https://lux-ua.com/image/cache/catalog/product/watches/montblanc7067/s-l1600%284%29-1200x1200.jpg",
+          "productname":"Montblanc",
+          "description":"Montblanc Sport Automatic 2010 Black Diamond Dial",
+          "price":160000,
+          "productdetails":[ {
+                                     "brandname":"Montblanc",
+                                     "model":"sport",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"7 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"no numerals"
+                                   } 
+                                ],
+          "size":"34.5 mm"
+        },
+       {
+          "id":8,
+          "imageurl":"https://cdn2.chrono24.com/images/uhren/18296197-xjusf7my1fydnl25c4rah49d-Zoom.jpg",
+          "productname":"Jaeger",
+          "description":"Jaeger-LeCoultre Master Chronograph",
+          "price":860000,
+          "productdetails":[ {
+                                     "brandname":"Jaeger-LeCoultre",
+                                     "model":"Master Chronograph",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"5 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"no numerals"
+                                   } 
+                                ],
+          "size":"40 mm"
+        },
+       {
+          "id":9,
+          "imageurl":"https://cdn2.chrono24.com/images/uhren/19205779-cmi6gar4uxmrfxut8nh2kczz-Zoom.jpg",
+          "productname":"Hublot Ferrari",
+          "description":"Hublot MP-05 LaFerrari Titanium Watch 905.NX.0001.RX",
+          "price":21676647,
+          "productdetails":[ {
+                                     "brandname":"Hublot",
+                                     "model":"MP-05 LaFerrari",
+                                     "movement":"Manual winding",
+                                     "waterRestiance":"3 ATM",
+                                     "crystal":"none",
+                                     "dialNumerals":"european numerals"
+                                   } 
+                                ],
+          "size":"46 mm"
+        },
+       {
+          "id":10,
+          "imageurl":"https://cdn2.chrono24.com/images/uhren/19304709-fy6p6l69cn2y2mx3ltniaakv-Zoom.jpg",
+          "productname":"Franck Muller",
+          "description":"Franck Muller Conquistador GPG Automatic - Box & Papers 2017",
+          "price":520000,
+          "productdetails":[ {
+                                     "brandname":"Franck Muller",
+                                     "model":"Conquistador GPG",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"3 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"no numerals"
+                                   } 
+                                ],
+          "size":"46 mm"
+        },
+       {
+          "id":11,
+          "imageurl":"https://cdn2.chrono24.com/images/uhren/19447536-bifz72uirixs5f0pyjmprdgf-Zoom.jpg",
+          "productname":"Bulgari",
+          "description":"Bulgari Octo Solotempo 41 Automatic - Box & Papers With AD Service 2019",
+          "price":418631,
+          "productdetails":[ {
+                                     "brandname":"Bulgari",
+                                     "model":"Octo",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"10 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"no numerals"
+                                   } 
+                                ],
+          "size":"41 mm"
+        },
+       {
+          "id":12,
+          "imageurl":"https://cdn2.chrono24.com/images/uhren/18979000-i8ffa75wpiejv2fxh1s124hl-Zoom.jpg",
+          "productname":"Graham",
+          "description":"Graham Chronofighter Oversize Superlight - Box & Papers 2021",
+          "price":492819,
+          "productdetails":[ {
+                                     "brandname":"Graham",
+                                     "model":  "Chronofighter Oversize",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"10 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"no numerals"
+                                   } 
+                                ],
+          "size":"47 mm"
+        },
+       {
+          "id":13,
+          "imageurl":"https://cdn2.chrono24.com/images/uhren/19491449-59xl37jn3z57hvcm0cu9p37l-Zoom.jpg",
+          "productname":"Corum",
+          "description":"Corum Admiral’s Cup Competition 48",
+          "price":420000,
+          "productdetails":[ {
+                                     "brandname":"Corum",
+                                     "model": "Admiral's Cup Competition 48",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"30 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"no numerals"
+                                   } 
+                                ],
+          "size":"48 mm"
+        },
+       {
+          "id":14,
+          "imageurl":"https://cdn2.chrono24.com/images/uhren/19413744-qva1k44xunaq001py78g6ell-Zoom.jpg",
+          "productname":"Rado",
+          "description":"Rado Ceramica Men's Watch swiss made",
+          "price":6427348,
+          "productdetails":[ {
+                                     "brandname":"Rado",
+                                     "model":"Ceramic",
+                                     "movement":"Quartz",
+                                     "waterRestiance":"3 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"no numerals"
+                                   } 
+                                ],
+          "size":"30 mm"
+        },
+       {
+          "id":15,
+          "imageurl":"https://tse4.mm.bing.net/th?id=OIP.5ll1ea03PC2g-LtVMNHtWwHaHa&pid=Api&P=0&w=300&h=300",
+          "productname":"Ulysee",
+          "description":"Ulysse Nardin Marine Diver Boutique Maxi",
+          "price":947413,
+          "productdetails":[ {
+                                     "brandname":"Ulysse Nardin",
+                                     "model":"Maxi Marine Diver",
+                                     "movement":"Automatic",
+                                     "waterRestiance":"5 ATM",
+                                     "crystal":"Sapphire crystal",
+                                     "dialNumerals":"no numerals"
+                                   } 
+                                ],
+          "size":"46 mm"
+        }
+    
+    ] ,
+    "headphones":[
+      {
+        "id":1,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/61N6Ai7RkJL._SL1500_.jpg",
+        "productname":"Sony Wireless Headphones",
+        "description":"Sony WH-CH710N Noise Cancelling Wireless Headphones : Bluetooth Over The Ear Headset with Mic for Phone-Call, 35 Hours Battery Life, Quick Charge and Google Assitant -                             Black",
+        "price":14990,
+        "productdetails":[ {
+                                       "Brand":"Sony",
+                                       "Manufacturer":	"Sony, 18001037799",
+                                       "Model":"WH-CH710N/BZIN",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 A batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"22.5 x 20.9 x 24.5 cm"
+      },
+      {
+        "id":2,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/615kVct65LL._SL1000_.jpg",
+        "productname":"JBL Wireless Headphones",
+        "description":"JBL Tune 750BTNC by Harman Over-Ear Wireless Active Noise-Cancelling Headphones with 15 Hours Playtime (Black)",
+        "price":9499,
+        "productdetails":[ {
+                                       "Brand":"JBL",
+                                       "Manufacturer":	"Harman International Industries, Inc",
+                                       "Model":"JBLT750BTNCBLK",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 Lithium Metal batteries required."      
+                                 } 
+                              ],
+        "size":"20.5 x 6.2 x 22.3 cm"
+      },
+      {
+        "id":3,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/710XhG8bO3L._SL1500_.jpg",
+        "productname":"boAt Wireless Headphones",
+        "description":"boAt Rockerz 550 Over-Ear Wireless Headphone with Ergonomic Aesthetics, Plush Padded Earcups, Immersive Audio, Bluetooth v5.0 & Upto 20H Playback (Black)",
+        "price":4999,
+        "productdetails":[ {
+                                       "Brand":"boAt",
+                                       "Manufacturer":	"BoAt",
+                                       "Model":"Rockerz 550",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 Lithium ion batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"16.2 x 8.6 x 22.4 cm"
+      },
+      {
+        "id":4,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/811f%2BDPKP-L._SL1500_.jpg",
+        "productname":"Boult Wireless Headphones",
+        "description":"Boult Audio ProBass Ranger Over-Ear Wireless Bluetooth Headphones with Microphone, Headset with Noise Cancellation & Long Battery Life",
+        "price":7999,
+        "productdetails":[ {
+                                       "Brand":"Boult",
+                                       "Manufacturer":	"Exotic Mile, 9555-602-502",
+                                       "Model":"ProBassRanger",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 A batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"18 x 22 x 9 cm"
+      },
+      {
+        "id":5,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/71PVecPhPUL._SL1500_.jpg",
+        "productname":"Leaf Wireless Headphones",
+        "description":"Leaf Bass 2 Wireless Bluetooth Headphones with Mic and 15 Hours Battery Life, Over-Ear Headphones with Super Soft Cushions and Deep Bass (Black)",
+        "price":2499,
+        "productdetails":[ {
+                                       "Brand":"Leaf",
+                                       "Manufacturer":	"Leaf Innovation Private Limited",
+                                       "Model":"Bass 2_0001",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 Lithium ion batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"19 x 8 x 20 cm"
+      },
+      {
+        "id":6,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/714t%2BTSlpEL._SL1500_.jpg",
+        "productname":"Edifier Wireless Headphones",
+        "description":"Edifier W828NB Wireless Bluetooth Headphones - Ergonomic, Active Noise Canceling (ANC) - White",
+        "price":10990,
+        "productdetails":[ {
+                                       "Brand":"Edifier",
+                                       "Manufacturer":	"Edifier",
+                                       "Model":"001",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 A batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"16 x 11 x 2 cm"
+      },
+      {
+        "id":7,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/71fss0M-hyL._SL1500_.jpg",
+        "productname":"Tribit Wireless Headphones",
+        "description":"Tribit QuietPlus Wireless Bluetooth Headphones,32dB Hybrid Active Noise Cancelling & HiFi Stereo Sound Over Ear Headphone,Deep Bass, Built-In CVC8.0 Mic,30 Hours                              Playtime,Headsets for Travel/Work/Home",
+        "price":5999,
+        "productdetails":[ {
+                                       "Brand":"Tribit",
+                                       "Manufacturer":	"Tribit",
+                                       "Model":"BTH72",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 A batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"16.99 x 8.2 x 19.71 cm"
+      },
+      {
+        "id":8,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/71lczMQC1bL._SL1178_.jpg",
+        "productname":"Fire-Boltt Wireless Headphones",
+        "description":"Fire-Boltt Blast 1400 Over -Ear Bluetooth Wireless Headphones with 25H Playtime, Thumping Bass, Lightweight Foldable Compact Design with Google/Siri Voice Assistance",
+        "price":4999,
+        "productdetails":[ {
+                                       "Brand":"Fire-Boltt",
+                                       "Manufacturer":	"Fire-Boltt, Boltt Games Pvt Ltd",
+                                       "Model":"BH1400",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 Lithium ion batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"8 x 19 x 25 cm"
+      },
+      {
+        "id":9,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/61OU6uUy1SL._SL1500_.jpg",
+        "productname":"BoAt Wireless Headphones",
+        "description":"boAt Rockerz 510 Bluetooth On-Ear Headphone with Mic(Furious Blue)",
+        "price":3990,
+        "productdetails":[ {
+                                       "Brand":"boAt",
+                                       "Manufacturer":	"Imagine Marketing Pvt Ltd",
+                                       "Model":"Rockerz-510",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 Lithium Polymer batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"19 x 7.5 x 20 cm"
+      },
+      {
+        "id":10,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/61rEoEQqn0L._SL1500_.jpg",
+        "productname":"Sony Wireless Headphones",
+        "description":"Sony WH-CH710N Noise Cancelling Wireless Headphones : Bluetooth Over The Ear Headset with Mic for Phone-Call, 35 Hours Battery Life, Quick Charge and Google Assitant -                              Blue",
+        "price":14990,
+        "productdetails":[ {
+                                       "Brand":"Sony",
+                                       "Manufacturer":	"Sony, 18001037799",
+                                       "Model":"WH-CH710N/LZIN",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 A batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"22.5 x 20.9 x 24.5 cm"
+      },
+      {
+        "id":11,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/61T-O7TvBCL._SL1288_.jpg",
+        "productname":"Macmerise Wireless Headphones",
+        "description":"Macmerise Iconic Ironman Active Noise Cancellation Wireless On Ear Headphones",
+        "price":5999,
+        "productdetails":[ {
+                                       "Brand":"Macmerise",
+                                       "Manufacturer":	"Macmerise Celfie Design Private Limited",
+                                       "Model":"Ironman",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"2 batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"17.5 x 13 x 9.2 cm"
+      },
+      {
+        "id":12,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/818c8Lnb8GL._SL1500_.jpg",
+        "productname":"Skull Candy Wireless Headphones",
+        "description":"Skullcandy Hesh Evo Wireless Over-Ear Headphone with Up to 36 Hours of Battery, Rapid Charge (10 min = 3 hrs), Noise-Isolating Fit and Built-in Tile Finding Technology                              (Blue)",
+        "price":14999,
+        "productdetails":[ {
+                                       "Brand":"Skull Candy",
+                                       "Manufacturer":	"Skullcandy Inc. P. O. Box 25442, Salt Lake City, UT 84125 USA",
+                                       "Model":"S6HVW-N745",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 Lithium Polymer batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"21.8 x 20.7 x 5.8 cm"
+      },
+      {
+        "id":13,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/71zPb%2BU1ybL._SL1500_.jpg",
+        "productname":"Sennheiser Wireless Headphones",
+        "description":"Sennheiser HD 458 BT Over Ear Wireless Headphones with Active Noise Cancellation Headphone",
+        "price":14990,
+        "productdetails":[ {
+                                       "Brand":"Sennheiser",
+                                       "Manufacturer":	"Sennheiser, Sennheiser electronic GmbH & Co. KG. Am Labor 1. DE - 30900 Wedemark Germany",
+                                       "Model":"HD 458BT",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 Lithium Polymer batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"12.7 x 10.3 x 17.6 cm"
+      },
+      {
+        "id":14,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/61ae1ov0eXL._SL1288_.jpg",
+        "productname":"Sony Wireless Headphones",
+        "description":"Macmerise Classic Captains Shield Active Noise Cancellation Wireless On Ear Headphones",
+        "price":5999,
+        "productdetails":[ {
+                                       "Brand":"Macmerise",
+                                       "Manufacturer":	"Macmerise Celfie Design Private Limited",
+                                       "Model":"Captain America",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"2 A batteries required. (included)"      
+                                 } 
+                              ],
+        "size":"17.5 x 13 x 9.2 cm"
+      },
+      {
+        "id":15,
+        "imageurl":"https://images-na.ssl-images-amazon.com/images/I/7118TJAtRXL._SL1500_.jpg",
+        "productname":"Marshall Wireless Headphones",
+        "description":"Marshall Major III Bluetooth Wireless On-Ear Headphones (Black)",
+        "price":8990,
+        "productdetails":[ {
+                                       "Brand":"Marshall",
+                                       "Manufacturer":	"Marshall",
+                                       "Model":"4092186",
+                                        "ConnectorType":"bluetooth",
+                                       "ModelName":"Headphones",
+                                      "Batteries":"1 Lithium Polymer batteries required."      
+                                 } 
+                              ],
+        "size":"16 x 16 x 8.64 cm"
+      }
+  ]  
+}

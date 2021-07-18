@@ -1,0 +1,27 @@
+export interface Laptops{
+    id:number;
+    imageurl:string;
+    productname:string;
+    description:string;
+    price:number;
+    productdetails:[
+      {
+        graphicMemoryType:string;
+        graphicMemoryCapacity:string;
+        processorBrand:string;
+        processorName:string;
+        processorGeneration:string;
+        memorycapacity:string;
+        RAM:string;
+        clockspeed:string;
+        cache:string;
+        numofcores:string;
+        operatingSystem:[
+          {
+            architecture:string;
+            os:string;
+          }
+        ]
+      }
+    ]
+}

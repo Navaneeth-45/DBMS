@@ -1,0 +1,42 @@
+@media  screen and (max-width:567px){
+     
+    img{
+        width: 100%;
+    }  
+    a:img{
+        width: 85%;
+        margin: auto;
+    }
+}
+
+h2{
+    font-family: 'Zilla Slab', serif;
+}
+#img:hover{
+    transform: scale(1.2);
+}
+@media  screen and (max-width:450px){
+    p{
+        font-size: 9px;
+    }
+    
+}
+
+.ani{
+    animation: moveright 1s linear 1;
+    animation-delay: 2s;
+    visibility: hidden;
+    animation-fill-mode: forwards;
+
+}
+
+@keyframes moveright{
+    0%{
+        transform: translateX(-100px);
+        visibility: visible;
+    }
+    100%{
+        transform: translateX(0);
+        visibility: visible;
+    }
+}

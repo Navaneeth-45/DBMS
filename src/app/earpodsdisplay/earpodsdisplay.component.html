@@ -1,0 +1,102 @@
+<div class="container " style="background-color:white; margin-top: 5%; ">
+    <div class="row"  style="background-color: rgba(240, 135, 240, 0.219);">
+  
+  
+        <div class="col-md-4 ">
+            <img  class="mt-5" src={{postObj.imageurl}} alt="not found" width="100%">
+            <span style="display: flex; justify-content: center;"> 
+                <button class="btn btn-warning m-2 p-3 mt-5" (click)="onProductSelect(postObj)">AddToCart<i class="fas fa-cart-plus"></i></button>
+            </span>
+        </div>
+  
+  
+        <div class="col-md-8">
+            <h1 class="text-center mt-5" style="color: white; background-color: rgb(199, 60, 67);">Brand: {{postObj.productname}} </h1> 
+            <h3 class="text-center " style="color: rgb(136, 44, 21);"> Technical Details</h3>
+             <h2 class="" style="color: rgb(45, 180, 11);">Price: {{postObj.price | currency:'INR'}}</h2>
+             <div class="row">
+                 <div class="col-3" style="color: rgb(69, 42, 165);">
+  
+                
+                        
+                        <h5>Brand</h5>
+                        <h5>Manufacturer</h5>
+                        <h5>Model</h5>
+                        <h5>Connector Type</h5>
+                        <h5>Model Name</h5>
+                        <h5>Batteries</h5>
+                        <h5>Size</h5>
+             
+                 </div>
+         
+                    <div class="col-1">
+                     <h5>:</h5>
+                     <h5>:</h5>
+                     <h5>:</h5>
+                     <h5>:</h5>
+                     <h5>:</h5>
+                     <h5>:</h5>
+                     <h5>:</h5>
+
+                    
+                    </div>
+                 <div class="col-8" style="color: rgb(185, 34, 148);">
+                    <h5 *ngFor="let i of postObj.productdetails" >{{i.Brand}}</h5>
+                    <h5 *ngFor="let i of postObj.productdetails" >{{i.Manufacturer}}</h5>
+                    <h5 *ngFor="let i of postObj.productdetails" >{{i.Model}}</h5>
+                    <h5 *ngFor="let i of postObj.productdetails" >{{i.ConnectorType}}</h5>
+                    <h5 *ngFor="let i of postObj.productdetails" >{{i.ModelName}}</h5>
+                    <h5 *ngFor="let i of postObj.productdetails" >{{i.Batteries}}</h5>
+                    <h5>{{postObj.size}}</h5>
+                   
+                
+                 </div>
+               
+  
+                 <div class="mt-5 mb-5">
+                     <h3 class="text-warning">About this item:</h3>
+                     {{postObj.description}}
+                 </div>
+  
+                 <div class="row">
+                     <div class="col-3">
+                         <img  width=70% src="https://images-na.ssl-images-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/icon-cod._CB485937110_.png" alt="">
+                         <p>Pay on delivery</p>
+                     </div>
+                     <div class="col-3">
+                         <img width=70% src="https://images-na.ssl-images-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/icon-returns._CB484059092_.png" alt="">
+                         <p>7 days replacement</p>
+                        </div>
+                     <div class="col-3">
+                         <img width=70% src="https://images-na.ssl-images-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/icon-amazon-delivered._CB485933725_.png" alt="">
+                         <p>E-buy delivered</p>
+                        </div>
+                     <div class="col-3">
+                         <img width=70% src="https://images-na.ssl-images-amazon.com/images/G/31/A2I-Convert/mobile/IconFarm/icon-warranty._CB485935626_.png" alt="">
+                         <p>1 year warranty</p>
+                        </div>
+  
+                 </div>
+                 <div class="text-secondary">
+                     <h5 class="text-danger">Save Extra with 5 offers</h5>
+                     
+                    <p>* No Cost EMI: Avail No Cost EMI on select cards for orders above ₹3000 DetailsNo Cost EMI: Avail No Cost EMI on select cards for orders above ₹3000 </p>
+                    <p>* Bank Offer: Get Rs. 500 Amazon Gift Card on a minimum purchase of Rs 10000 with HDFC Bank Debit Card EMI transaction DetailsBank Offer: Get Rs. 500 Amazon Gift Card on a minimum purchase of Rs 10000 with HDFC Bank Debit Card EMI</p>
+                   <p>* Exchange Offer: Up to ₹ 16,500.00 off on Exchange</p>
+                   <p>* Cashback: 5% back with Amazon Pay ICICI Bank credit card for Prime members. 3% back for others. Get up to ₹600 back on card approval DetailsCashback: 5% back with Amazon Pay ICICI Bank credit card for Prime members. 3% back for others. Get up to ₹600</p>
+                   <p>* Partner Offers: Get GST invoice and save up to 28% on business purchases. Sign up for free DetailsPartner Offers: Get GST invoice and save up to 28% on business purchases</p>
+                </div>
+                 <h5>In stock:</h5>
+                 <p>
+                    Sold by Appario Retail Private Ltd and Fulfilled by E-buy.</p>
+  
+             </div>
+            
+             
+            
+    </div>
+    </div>
+    </div>
+        
+
+

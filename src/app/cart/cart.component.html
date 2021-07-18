@@ -1,0 +1,202 @@
+  <!-- <div class="container">
+    <h3 class="text-end me-3 mt-3 mb-2">Welcome, <span>{{userObj.firstname}}<i class="far fa-smile text-dark ms-2 me-4 mt-3 mb-2"></i></span></h3>
+<div class="text-end me-4">
+     <h5 class="text-dark me-4">{{userObj.email}}</h5>
+      <h5 class="text-dark">Phone:{{userObj.mobilenumber}}</h5> 
+ </div>
+
+ <table class="table text-dark  mt-5 " >
+                <div class="background w-75 d-block mx-auto">
+                <table class="table text-dark  p-5 backc" >
+                    <thead>
+                        <tr>
+                
+                            <th>Image</th>
+                            <th>Brand</th>
+                            <th>Price</th>
+                           
+                        
+                
+                        </tr>
+                    </thead>
+                
+                    <tbody>
+                        <tr *ngFor="let p of products">
+                            <td> <img src={{p.imageurl}} alt="image not found" width=20%></td>
+                            <td> <strong>{{p.productname}}</strong></td>
+                            <td> <strong>{{p.price | currency:'INR'}}</strong></td>
+                            
+                          
+                           
+                            </tr>
+                           
+                        </tbody>
+                        </table>
+                    
+                        </div>
+</table> 
+ 
+
+
+
+
+
+                                       
+                        <div class="row">
+                        
+                            <div class="col col-lg-7 col-sm-6">
+                            <div class="pincode">
+                                <p class="ms-2">Check delivery time & services<a href="#" class="check text-end float-end me-2"><button class="btn btn-warning">Check Pincode</button></a></p>
+                                    
+                            </div>
+                            <div class="offers mt-3">
+                                <p style="font-weight: bold;" class=""><img src="https://image.flaticon.com/icons/png/128/879/879757.png" class="ms-2 me-2" alt="" width="5%">Available offers</p>
+                                <ul>
+                                    <li>10% Instant discount on Citi and Debit Cards on a minimum spend of Rs 3,000 TCA</li>
+                                    <li>20% Instant Discount on slice card on a minimum spend of Rs 1,000 TCA</li>
+                                    <li>5% Unlimited Cashback on Axis Bank Credit Card TCA</li>
+                                </ul>
+                                
+                            </div>
+                            <div class="fee mt-3">
+                                <p class=""><i class="fas fa-shipping-fast ms-2 me-2" style="font-size: 20px;"></i>Yay! <span style="font-weight: bold;font-size: 20px;">No Convenience Fee</span> on this order.</p>
+                                
+                            </div>
+                            <h5 class="text-start mt-3 ms-2">
+                                My shopping Bag (<span>{{count}} items</span>)
+                            </h5>
+                        
+                        
+                        
+                        
+        
+                               
+                            </div>
+                            <div class="col col-lg-5 col-sm-6">
+                                <div class="coupon">
+                                    <h6 class="ms-2">COUPONS</h6>
+                                    <p class="ms-2"><i class="fas fa-tag me-2" style="font-size: 20px;"></i>Apply coupons<a href="#" class="check text-end float-end me-2 "><button class="btn btn-warning">Apply</button></a></p>
+                                   
+                                </div>
+                                <div class="details mt-3 mb-3">
+                                    <h6 class="ms-2">Price details</h6>
+                                    <div class="text-start ms-2">
+                                        <p >Total MRP: <strong>{{total| currency:'INR'}}</strong></p>
+                                        <p >Total Items: <strong>{{count}}</strong></p>
+                                        <p>Discount on MRP</p>
+                                        <p>Coupon Discount</p>
+                                        <p>Convenience Fee</p>
+                                        <hr>
+                                        <h6 >Total Amount :<strong>{{total| currency:'INR'}}</strong></h6>
+                                        <hr>
+                                    </div>
+                                    <div class="text-center mt-2 mb-2"><a href="#" class="amount"><button class="btn btn-secondary">Place Order</button></a></div>
+                                    
+                                
+                                </div>
+                            </div>
+                        
+                        </div>
+                        </div> 
+
+
+
+
+
+
+
+ -->
+
+
+
+ <div class="container ct">
+    <h5 class="text-end me-3 mt-3 mb-2">Welcome, <span>{{userObj.username}}<i class="far fa-smile text-dark ms-2 me-4 mt-3 mb-2"></i></span></h5>
+<div class="text-end me-4">
+     <h5 class="text-dark me-4">{{userObj.email}}</h5>
+     <!-- <h5 class="text-dark">Phone:{{userObj.mobilenumber}}</h5> -->
+</div>
+ <!-- <li class="nav-item">
+    <a class="nav-link" routerLinkActive="active" routerLink="cart">
+        <i class="fas fa-cart-arrow-down" style="color: #ec2399;"></i>
+        Cart <span class="badge bg-dark text-white ms-2">{{count}}</span>
+    </a>
+</li> -->
+
+
+<div class="container">
+
+    <table class="table table-striped  mx-auto mt-5 details" >
+                
+        <tbody>
+            <tr *ngFor="let p of products">
+                <td class="col-4">
+                    <img src={{p.imageurl}} class="id1" width="40%" alt="">
+                </td>
+                <td class="col-4 "><p><strong>{{p.productname}}</strong></p></td>
+                <td class="col-4 "><strong>{{p.price| currency:'INR'}}</strong></td>
+                
+            </tr>
+        </tbody>
+    </table>
+    </div>
+     
+<div class="row">
+
+    <div class="cols-1 cols-sm-1 col-md-6">
+    <div class="pincode">
+            <p class="ms-2">Check delivery time & services<a href="#" class="check text-end float-end me-2 but" >CHECK PINCODE</a></p>
+            
+            
+    </div>
+    <div class="offers mt-3">
+        <p style="font-weight: bold;" class=""><img src="https://image.flaticon.com/icons/png/128/879/879757.png" class="ms-2 me-2 img1" alt="" width="5%">Available offers</p>
+        <ul>
+            <li>10% Instant discount on Citi and Debit Cards on a minimum spend of Rs 3,000 TCA</li>
+            <li>20% Instant Discount on slice card on a minimum spend of Rs 1,000 TCA</li>
+            <li>5% Unlimited Cashback on Axis Bank Credit Card TCA</li>
+        </ul>
+        
+    </div>
+    <div class="fee mt-3">
+        <p class=""><i class="fas fa-shipping-fast ms-2 me-2" style="font-size: 20px;"></i>Yay! <span style="font-weight: bold;font-size: 20px;">No Convenience Fee</span> on this order.</p>
+        
+    </div>
+    <h5 class="text-start mt-3 ms-2">
+        My shopping Bag (<span>{{count}} items</span>)
+    </h5>
+
+
+
+      
+    </div>
+    <div class="cols-1 cols-sm-1 col-md-6">
+        <div class="coupon">
+            <h6 class="ms-2">COUPONS</h6>
+            <p class="ms-2"><i class="fas fa-tag me-2" style="font-size: 20px;"></i>Apply coupons<a href="#" class="check text-end float-end me-2 ">APPLY</a></p>
+        </div>
+        <div class="details mt-3 mb-3">
+            <h6 class="ms-2">Price details</h6>
+            <div class="text-start ms-2">
+                <p>Total MRP:<strong>{{total| currency:'INR'}}</strong></p>
+                <p>Discount on MRP</p>
+                <p>Coupon Discount</p>
+                <p>Convenience Fee</p>
+                <hr>
+                <h6>Total Amount :<strong>{{total| currency:'INR'}}</strong></h6>
+                <hr>
+            </div>
+            <div class="text-center mt-2 mb-2"><a href="#" class="amount ">PLACE ORDER</a></div>
+            
+        
+        </div>
+    </div>
+
+</div>
+</div>
+
+
+
+
+                        
+                        
+       
