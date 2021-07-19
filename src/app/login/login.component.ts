@@ -23,7 +23,7 @@ export class LoginComponent implements OnInit {
         if(res.message==="successful"){
           //save token to localstorage
           localStorage.setItem("token",res.token)
-          localStorage.setItem("username",res.username)
+          localStorage.setItem("username",userCredentials.username)
           localStorage.setItem("userObj",JSON.stringify(res.userObj))
   //update userloginstatus
   this.us.userLoginStatus=true;

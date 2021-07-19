@@ -22,10 +22,10 @@ export class CartComponent implements OnInit {
 
     
         //get user data from local storage
-        this.userObj= JSON.parse(localStorage.getItem("userObj"))
+        this.userObj= localStorage.getItem("username")
 
         //get userCartObj from API
-        this.us.getProductsFromUserCart(this.userObj.username).subscribe(
+        this.us.getProductsFromUserCart(this.userObj).subscribe(
           res=>{
             if(res.message==='Cart-empty'){
               this.us.updateDataObservable(0)
